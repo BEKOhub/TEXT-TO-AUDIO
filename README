@@ -1,0 +1,12 @@
+README: Audio to Text Conversion Guide
+Introduction
+This README provides a step-by-step guide to convert the provided audio file into text using tools available locally or online.
+
+Requirements
+To process the audio file and convert it into text, ensure the following are available:
+
+Python 3.6 or later
+Necessary libraries: 
+- SpeechRecognition, pydub
+- standard-aifc
+Internet connection for API-based transcription
